@@ -10,6 +10,7 @@ question I practice on leetocde daily will be added here
 # Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/A1Kumari/DSA-CP/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/A1Kumari/DSA-CP/tree/master/0783-search-in-a-binary-search-tree) |
 # Binary Tree
 |  |
@@ -39,3 +40,7 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/A1Kumari/DSA-CP/tree/master/1036-rotting-oranges) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/A1Kumari/DSA-CP/tree/master/0374-guess-number-higher-or-lower) |
