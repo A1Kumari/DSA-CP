@@ -60,3 +60,11 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/A1Kumari/DSA-CP/tree/master/1777-determine-if-two-strings-are-close) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/A1Kumari/DSA-CP/tree/master/0338-counting-bits) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/A1Kumari/DSA-CP/tree/master/0338-counting-bits) |
