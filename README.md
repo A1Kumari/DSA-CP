@@ -35,6 +35,7 @@ question I practice on leetocde daily will be added here
 # Array
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/A1Kumari/DSA-CP/tree/master/0216-combination-sum-iii) |
 | [1036-rotting-oranges](https://github.com/A1Kumari/DSA-CP/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
@@ -68,3 +69,7 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/A1Kumari/DSA-CP/tree/master/0338-counting-bits) |
+# Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/A1Kumari/DSA-CP/tree/master/0216-combination-sum-iii) |
