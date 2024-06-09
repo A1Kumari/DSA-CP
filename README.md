@@ -69,6 +69,7 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/A1Kumari/DSA-CP/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/A1Kumari/DSA-CP/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 # Backtracking
 |  |
 | ------- |
