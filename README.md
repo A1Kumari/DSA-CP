@@ -55,6 +55,7 @@ question I practice on leetocde daily will be added here
 # String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/A1Kumari/DSA-CP/tree/master/0151-reverse-words-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/A1Kumari/DSA-CP/tree/master/1777-determine-if-two-strings-are-close) |
 # Sorting
 |  |
@@ -94,3 +95,7 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/A1Kumari/DSA-CP/tree/master/0045-jump-game-ii) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/A1Kumari/DSA-CP/tree/master/0151-reverse-words-in-a-string) |
