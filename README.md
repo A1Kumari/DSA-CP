@@ -36,6 +36,7 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/A1Kumari/DSA-CP/tree/master/0216-combination-sum-iii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [1036-rotting-oranges](https://github.com/A1Kumari/DSA-CP/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
@@ -48,6 +49,7 @@ question I practice on leetocde daily will be added here
 # Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [1777-determine-if-two-strings-are-close](https://github.com/A1Kumari/DSA-CP/tree/master/1777-determine-if-two-strings-are-close) |
 # String
 |  |
@@ -74,3 +76,15 @@ question I practice on leetocde daily will be added here
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/A1Kumari/DSA-CP/tree/master/0216-combination-sum-iii) |
+# Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
+# Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
+# Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
