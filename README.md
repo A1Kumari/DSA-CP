@@ -35,6 +35,7 @@ question I practice on leetocde daily will be added here
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/A1Kumari/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/A1Kumari/DSA-CP/tree/master/0045-jump-game-ii) |
 | [0216-combination-sum-iii](https://github.com/A1Kumari/DSA-CP/tree/master/0216-combination-sum-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/A1Kumari/DSA-CP/tree/master/0380-insert-delete-getrandom-o1) |
@@ -68,6 +69,7 @@ question I practice on leetocde daily will be added here
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/A1Kumari/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/A1Kumari/DSA-CP/tree/master/0045-jump-game-ii) |
 | [0338-counting-bits](https://github.com/A1Kumari/DSA-CP/tree/master/0338-counting-bits) |
 # Bit Manipulation
@@ -98,4 +100,13 @@ question I practice on leetocde daily will be added here
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/A1Kumari/DSA-CP/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/A1Kumari/DSA-CP/tree/master/0151-reverse-words-in-a-string) |
+# Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/A1Kumari/DSA-CP/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/A1Kumari/DSA-CP/tree/master/0042-trapping-rain-water) |
